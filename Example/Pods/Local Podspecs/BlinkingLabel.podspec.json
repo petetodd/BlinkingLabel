@@ -1,9 +1,9 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "summary": "Brief tutorial on using Swift to create cocoapod.",
+  "description": "A longer desc about this tutoial on creating a pod with swift.  Doing the demo to help resolve some issue in my own cocoapod.",
+  "homepage": "https://github.com/petetodd/BlinkingLabel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Peter Todd": "peter@petertodd.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel.git",
+    "git": "https://github.com/petetodd/BlinkingLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {

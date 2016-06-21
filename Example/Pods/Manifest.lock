@@ -13,7 +13,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BlinkingLabel: 83771e12cddb5bf10d6a89fc0977ad150e020be7
+  BlinkingLabel: 891b2b299d3d84a8211b15b6e4ea42f44a902ab1
   Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
   Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
 
